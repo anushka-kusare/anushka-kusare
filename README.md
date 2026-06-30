@@ -4,7 +4,7 @@
 
 ### 🚀 Computer Science Student • Data Science Enthusiast • AI/ML Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Data+Science;C%2B%2B+%7C+Python+%7C+Web+Development;Always+Learning+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Data+Science;Always+Learning+Something+New+%F0%9F%9A%80" />
 
 </div>
 
@@ -89,7 +89,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/anushka_kusare">
+<a href="https://linkedin.com/in/Anushka Kusare">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
